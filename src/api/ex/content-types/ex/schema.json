@@ -1,0 +1,25 @@
+{
+  "kind": "collectionType",
+  "collectionName": "exes",
+  "info": {
+    "singularName": "ex",
+    "pluralName": "exes",
+    "displayName": "Ex"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "P": {
+      "type": "media",
+      "multiple": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    }
+  }
+}
