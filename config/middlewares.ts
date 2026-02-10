@@ -6,7 +6,7 @@ module.exports = [
     config: {
       origin: [
         'http://localhost:3000',
-        'https://dogs-frontend.vercel.app'
+        'dogs-frontend-ruby.vercel.app'
       ],
       methods: ['GET', 'POST', 'PUT', 'PATCH', 'DELETE', 'HEAD', 'OPTIONS'],
       headers: '*',
